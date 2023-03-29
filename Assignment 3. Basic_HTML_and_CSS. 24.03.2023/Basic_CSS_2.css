@@ -1,0 +1,23 @@
+.my-paragraph {
+    color: #333; /* dark gray */
+    background-color: #eee; /* light gray */
+    font-size: 18px;
+    text-align: justify;
+}
+
+h1 {
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+h2 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h3 {
+  text-shadow: 0 0 3px #FF0000;
+}
+
+h4 {
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
