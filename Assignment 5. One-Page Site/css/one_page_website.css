@@ -1,0 +1,25 @@
+/*GENERIC STYLES*/
+
+body {
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: #000000; 
+    background-color: #fff;
+}
+
+ /* SUBSCRIPTION STYLES */
+
+ /*Width of the inputs
+Margin between the inputs
+Border of the inputs
+Border radius of the inputs
+*/
+
+.subscription {
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+
