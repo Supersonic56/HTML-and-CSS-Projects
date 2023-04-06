@@ -7,34 +7,35 @@
 	<h1>HTML and CSS Projects Repository</h1>
 	<p>This repository contains a collection of HTML and CSS projects. The projects included in this repository are designed to improve my skills in HTML and CSS by building real-world projects.</p>
 	<br>
-	<p>For the requirements of the HTML, CSS and Bootstrap Course at The Tech Academy I have compiled the following assignments:
+	<div>
+<p>For the requirements of the HTML, CSS and Bootstrap Course at The Tech Academy I have compiled the following assignments:</p>
 
-		Assignment 1. HTML Documents. 22.03.2023
-		I have created three simple HTML files using a basic HTML template.
-		All three files link to each other using the <nav> element.
+Assignment 1. HTML Documents. 22.03.2023
+I have created three simple HTML files using a basic HTML template. All three files link to each other using the <nav> element.
 
-		Assignment 2. Basic_HTML_and_JavaScript_1. 23.03.2023
-		Basic HTML and JavaScript files have been created.
+Assignment 2. Basic_HTML_and_JavaScript_1. 23.03.2023
+Basic HTML and JavaScript files have been created.
 
-		Assignment 4. Creating a Basic HTML Website
-		Completed the basic website assignment with a background photo, a navigation bar, a photo container and a simple reservation system
+Assignment 4. Creating a Basic HTML Website
+Completed the basic website assignment with a background photo, a navigation bar, a photo container and a simple reservation system
 
-		Assignment 5. One-Page Site
-		The HTML website is a foundation for further JavaScript and CSS implementation.
-		The website has: 1. a navigation section, 2. home section with a citation and an unordered list, a table, a drop down list, and a bookmark; 3. a 		 gallery with embedded pictures and a YouTube video,  a link to another website; 4. a submission form, a newsletter subscription; 5. a footer.
-		Created a basic one page website with a navigation bar, photo gallery and a reservation panel.
+Assignment 5. One-Page Site
+The HTML website is a foundation for further JavaScript and CSS implementation.
+The website has: 1. a navigation section, 2. home section with a citation and an unordered list, a table, a drop down list, and a bookmark; 3. a 		 gallery with embedded pictures and a YouTube video,  a link to another website; 4. a submission form, a newsletter subscription; 5. a footer.
+Created a basic one page website with a navigation bar, photo gallery and a reservation panel.
 
-		CSS and Bootstrap Course. Bouncing SmileyFace Project
-		Created an interactive container with moving images when the cursor hovers over them.
+CSS and Bootstrap Course. Bouncing SmileyFace Project
+Created an interactive container with moving images when the cursor hovers over them.
 
-		CSS and Bootstrap Course. Creating-a-CSS-menu
-		Created a menu for a basic html website using CSS styling
+CSS and Bootstrap Course. Creating-a-CSS-menu
+Created a menu for a basic html website using CSS styling
 
-		bootstrap4_project
-		Completed the assignment to build a simple html website with Bootstrap framework styling
+bootstrap4_project
+Completed the assignment to build a simple html website with Bootstrap framework styling
 
-		Student_Portfolio
-		Created a basic portfolio website with css styling. The website contains basic animations, a video, photos and a text. There is a link to the GitHub 		     profile and a contact form. The website has been uploaded to the web using the FileZilla FTP transfer software and is available online under the domain 		     www.lucydev256.com</p>
+Student_Portfolio
+Created a basic portfolio website with css styling. The website contains basic animations, a video, photos and a text. There is a link to the GitHub 		     profile and a contact form. The website has been uploaded to the web using the FileZilla FTP transfer software and is available online under the domain 		     www.lucydev256.com
+	</div>
 	<br>
 	<h2>Technologies</h2>
 	<p>The projects in this repository are built using HTML, CSS, and some basic JavaScript.</p>
