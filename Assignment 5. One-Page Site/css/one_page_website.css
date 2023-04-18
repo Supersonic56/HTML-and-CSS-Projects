@@ -23,8 +23,8 @@ Border radius of the inputs
   }
 /*Lightbox (Modal Image Gallery)*/
 
-.row > .column {
-  padding: 0 8px;
+.img {
+  width: 100%;
 }
 
 .row:after {
